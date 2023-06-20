@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="tabLayout">Tab Layout</string>
+    <string name="viewPager">View Pager</string>
+    <string name="home">Home Fragment</string>
+    <string name="settings">Settings Fragment</string>
+    <string name="integration">Integration Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
